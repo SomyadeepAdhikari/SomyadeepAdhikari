@@ -6,16 +6,7 @@
 <!-- Animated typing -->
 <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+�;Open+Source+Enthusiast+💡;Problem+Solver+🧩;Code+Craftsman+⚡&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22&pause=1000">
 
-<!-- Animated coding GIF -->
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SomyadeepAdhikari/SomyadeepAdhikari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SomyadeepAdhikari/SomyadeepAdhikari/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SomyadeepAdhikari/SomyadeepAdhikari/output/github-snake.svg" />
-</picture>
 
-</div>
 
 <!-- Profile counters with custom styling -->
 <p align="center">
@@ -191,9 +182,6 @@ CSS          8 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- Additional interactive elements -->
 <div align="center">
-
-### 🎵 **Currently Vibing To**
-<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify" />
 
 ### 🏆 **GitHub Achievements**
 <img src="https://github-profile-trophy.vercel.app/?username=SomyadeepAdhikari&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
