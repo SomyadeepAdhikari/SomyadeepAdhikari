@@ -4,9 +4,18 @@
 <div align="center">
   
 <!-- Animated typing -->
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+�;Open+Source+Enthusiast+💡;Problem+Solver+🧩;Code+Craftsman+⚡&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22&pause=1000">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Flutter+Developer;Game+Dev+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG">
 
+<!-- Animated coding GIF -->
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SomyadeepAdhikari/SomyadeepAdhikari/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SomyadeepAdhikari/SomyadeepAdhikari/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SomyadeepAdhikari/SomyadeepAdhikari/output/github-snake.svg" />
+</picture>
 
+</div>
 
 <!-- Profile counters with custom styling -->
 <p align="center">
